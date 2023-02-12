@@ -1,0 +1,14 @@
+Name: Chrichri
+Avatar Create by: RedTv#2070 
+Version: 1.0 
+Release: PRIVATE 
+Support: 
+	WIN: YES, 
+	ANDROID: YES
+Licence: 
+	Texture:
+		Name: RedTv
+		Link: https://creativecommons.org/licenses/by-nc-nd/4.0/
+	AVATAR: 
+		Name: Rezillo Ryker
+		Link: https://rezilloryker.gumroad.com/l/MYutV
